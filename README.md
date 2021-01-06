@@ -17,7 +17,7 @@
 
 <br />
 
-<p> ✅ Constução de uma Calculadora através de Métodos, utilizando require</p>
+<p> ✅ Constução de uma Calculadora através de Métodos</p>
 <p> ✅ Construção de um servidor</p>
 <p></p>
 <p></p>
