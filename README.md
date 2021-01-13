@@ -19,6 +19,9 @@
 
 <p> ✅ Constução de uma Calculadora através de Métodos</p>
 <p> ✅ Construção do servidor via Node.js</p>
-<p></p>
+
+
+<h2 align="center"> Monitoria<h2>
+<p> ✅ API para manipulação de usuário.</p>
 <p></p>
 <p></p>
