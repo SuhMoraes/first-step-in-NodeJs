@@ -22,6 +22,6 @@
 
 
 <h2 align="center"> Monitoria</h2>
-<p> ✅ API para manipulação de usuário.</p>
+<p> ✅ API para manipulação de informaçãoes de usuário.</p>
 <p></p>
 <p></p>
