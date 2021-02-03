@@ -1,5 +1,3 @@
-<h1 align="center"> NodeJS</h1>
-
 <p align="center">
   <img src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor"
 </p>
